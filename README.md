@@ -35,9 +35,3 @@ Passionate web developer with a flair for crafting immersive online experiences.
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/syedahsanrazabukhari/output/snake.svg" alt="Snake animation" />
-
-###
